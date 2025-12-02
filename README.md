@@ -24,7 +24,7 @@ Deployed a containerized Java application to Kubernetes with high availability, 
 ---
 
 ## 📄 Resume
-📌 **Download Resume** → *( uploading my PDF here)*
+📌 **Download Resume** → ([https://github.com/venkatanarayanachattu333/venkat-portfolio/blob/main/Venkata_Narayana_DevOps_Resume.pdf]                                                                       (https://github.com/venkatanarayanachattu333/venkat-portfolio/blob/main/chattu%20resume.pdf))
 
 ---
 
